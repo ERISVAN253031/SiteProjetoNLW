@@ -4,7 +4,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto contruido do
+Projeto construido no 
 evento Next Level Week
 da Rockeseat
 
