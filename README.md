@@ -2,9 +2,9 @@
 
 >Trilha Explorer
 
-![preview](./.github/preview.png)
+![preview](./github/preview.png)
 
-Projeto construido no 
+Projeto construido no
 evento Next Level Week
 da Rockeseat
 
