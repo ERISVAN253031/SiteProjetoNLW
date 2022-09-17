@@ -2,13 +2,13 @@
 
 >Trilha Explorer
 
-! [preview](./github/preview.png)
+![preview](./.github/preview.png)
 
 Projeto contruido do
 evento Next Level Week
 da Rockeseat
 
-[lique aqui para 
+[Clique aqui para 
 acessar](https://erisvan253031.github.io/SiteProjetoNLW/)
 
 ## Tecnologias 
